@@ -1,0 +1,32 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.zoomLevel": 1,
+    "files.autoSave": "onFocusChange",
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "editor.minimap.enabled": false,
+    "editor.formatOnPaste": true,
+    "editor.wordWrap": "on",
+    "editor.fontSize": 15,
+    "explorer.confirmDelete": false,
+    "debug.onTaskErrors": "abort",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontFamily": "'Source Code Pro for Powerline', 'monospace', monospace, 'Droid Sans Fallback'",
+    "debug.console.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "[vue]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "java.semanticHighlighting.enabled": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "vscode-icons"
+}
